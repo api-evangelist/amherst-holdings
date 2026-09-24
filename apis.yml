@@ -1,7 +1,6 @@
 aid: amherst-holdings
 name: Amherst Holdings
-description: 'Amherst Holdings is a company surfaced via the API Evangelist harvest backlog (source: secondary-market)
-  and added to the network as a stub for full-pipeline profiling.'
+description: 'Amherst Holdings is a private market platform listed on Nasdaq Private Market, providing liquidity solutions, investment platforms, and data intelligence for private company stock. It enables buying and selling of private company shares, offers structured liquidity for funds, and delivers equity administration services across growth stages. The company serves employees, shareholders, and accredited investors through a regulated marketplace, facilitating secondary transactions and capital solutions.'
 url: https://raw.githubusercontent.com/api-evangelist/amherst-holdings/refs/heads/main/apis.yml
 x-type: company
 x-source: harvest:secondary-market
@@ -11,7 +10,11 @@ specificationVersion: '0.20'
 created: '2026-09-24'
 modified: '2026-09-24'
 tags:
-- Company
+- Private-Market
+- Liquidity
+- Investment-Platform
+- Data-Intelligence
+- Equity-Administration
 apis: []
 maintainers:
 - FN: Kin Lane
